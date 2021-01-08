@@ -43,3 +43,13 @@
      margin: 10px 10px 10px 0px;
      float: left;
 }
+
+small .img{
+     width: 45%;
+     float: left;
+     margin: 10px;
+}
+
+.date{
+     display: block;
+}

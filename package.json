@@ -9,13 +9,14 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "express": "3.x",
     "express3-handlebars": "*",
     "mongodb": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "nodemon": "^2.0.7"
   },
   "engines": {
     "node": "0.10.x"
